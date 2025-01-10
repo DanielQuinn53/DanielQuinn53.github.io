@@ -22,9 +22,9 @@ repository               : "DanielQuinn53/DanielQuinn53.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Deatils"
+  name             : "QML Researcher"
   pronouns         : # example: "she/her"  
-  bio              : "Some Bio"
+  bio              : #"Some Bio"
   location         : "Belfast"
   employer         : "Queen's University Belfast"
   uri              : # URL
