@@ -9,21 +9,21 @@ redirect_from:
 
 ## About Me
 
-Hi, I'm Daniel! I'm currently a PhD student in Physics at Queen's University under the supervison of Prof. Gabriele De Chiara. My current research project focuses on the energetic resources required for Quantum Machine Learning models, and I've been delving into quantum algorithms using Qiskit, Pennylane, and QIBO. Also, I am a mebmer of the Quantum Technology at Queens group (QTeQ).
+Hi, I'm Daniel! I'm a PhD student in Physics at Queen's University Belfast, working under the supervision of Prof. Gabriele De Chiara. My research focuses on the energetic resources required for Quantum Machine Learning models. I have been actively exploring quantum algorithms using Qiskit, Pennylane, and QIBO. Additionally, I am a proud member of the Quantum Technology at Queens group (QTeQ).
 
-When I'm not working on quantum computing or tutoring, I enjoy mending, fixing, and enivetbly screaming at my cars
+Outside of my academic pursuits, I enjoy tinkering with my cars—mending, fixing, and occasionally screaming at them when things don’t go as planned!
 
 ---
 
 ## Education
 
 **Queen's University Belfast**  
-*PhD in Physics*
-*Sep 2024 - Present*
+*PhD in Physics*  
+*Sep 2024 - Present*  
 
 **Queen's University Belfast**  
 *MSci in Mathematics and Computer Science*  
-*1st Class with Hons.*  
+*1st Class Honours*  
 *Sep 2020 - Jun 2024*  
 
 **Relevant Modules:**  
@@ -31,42 +31,36 @@ Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Informat
 
 ---
 
-## Prevoius Projects
+## Previous Projects
 
-### MSci Project: Machine Learning for Finding Quantum Maps
-*Sep 2023 - May 2024*
+### MSci Project: Machine Learning for Finding Quantum Maps  
+*Sep 2023 - May 2024*  
 *Supervisor: Prof. Mauro Paternostro*
 
-- Applied deep learning models to predict time evolution of quantum systems.
-- Generated and analysed extensive datasets of quantum states and evolutions.
-- Communicated complex findings across disciplines, bridging gaps in understanding.
-- Employed critical thinking to design models capturing intricate quantum behaviors.
+- Leveraged deep learning models to predict the time evolution of quantum systems.  
+- Generated and analyzed extensive datasets of quantum states and evolutions.  
+- Effectively communicated complex findings across disciplines to bridge gaps in understanding.  
+- Designed models capturing intricate quantum behaviors through critical thinking and innovation.  
 
 ---
 
 ## Work Experience
 
-### QUB - Tutor   
+### Tutor, Queen's University Belfast  
 *Sep 2024 - Present*  
 
-Tutor for a year-long first-year university module on Real Analysis and Linear Algebra.
-Responsibilities include:
-- Providing concise weekly summaries of the main lectures to help students solidify their understanding.
-- Offering support with weekly homework assignments to ensure students stay on track
+- Delivered concise weekly summaries for a first-year module on Real Analysis and Linear Algebra to reinforce students' understanding.  
+- Supported students with weekly homework assignments, ensuring they stayed on track academically.  
 
-### QUB - Marker   
+### Marker, Queen's University Belfast  
 *Jan 2024 - May 2024*  
 
-Worked as a marker for a one-semester second-year university module on Complex Analysis and Partial Differential Equations.
-Responsibilities included:
-- Carefully grading homework assignments.
-- Providing constructive feedback to students.
-- Ensuring consistency and fairness in assessment.
+- Graded homework assignments for a second-year module on Complex Analysis and Partial Differential Equations.  
+- Provided constructive feedback to students while maintaining fairness and consistency in assessments.  
 
-### Randox Laboratories - Accessioning Technician / Lab Assistant  
+### Accessioning Technician / Lab Assistant, Randox Laboratories  
 *Jul 2020 - Sep 2020*  
 
-- Performed under pressure during the COVID-19 outbreak.  
-- Processed 2000 samples per hour.  
-- Attained communication and leadership skills by mentoring new employees.  
-- Worked within tight deadlines in a fast-paced atmosphere. 
+- Worked under high pressure during the COVID-19 pandemic, processing up to 2,000 samples per hour.  
+- Developed communication and leadership skills by mentoring new employees.  
+- Excelled in meeting tight deadlines within a fast-paced, high-stakes environment.  
