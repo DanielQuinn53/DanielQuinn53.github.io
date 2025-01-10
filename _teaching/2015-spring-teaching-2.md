@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Level 2 Marker"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Queen's University of Belfast"
 date: 2015-01-01
-location: "City, Country"
+location: "Belfast, Northern Ireland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I worked as a marker for a one-semester second-year university module on Complex Analysis and Partial Differential Equations. My responsibilities included carefully grading homework assignments, providing constructive feedback, and ensuring consistency and fairness in assessment.
