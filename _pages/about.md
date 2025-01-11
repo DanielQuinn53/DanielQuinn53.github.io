@@ -13,8 +13,6 @@ Hi, I'm Daniel! I'm a PhD student in Physics at Queen's University Belfast, work
 
 Outside of my academic pursuits, I enjoy tinkering with my cars—mending, fixing, and occasionally screaming at them when things don’t go as planned!
 
----
-
 ## Education
 
 **Queen's University Belfast**  
@@ -29,8 +27,6 @@ Outside of my academic pursuits, I enjoy tinkering with my cars—mending, fixin
 **Relevant Modules:**  
 Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Information Processing
 
----
-
 ## Previous Projects
 
 ### MSci Project: Machine Learning for Finding Quantum Maps  
@@ -41,8 +37,6 @@ Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Informat
 - Generated and analyzed extensive datasets of quantum states and evolutions.  
 - Effectively communicated complex findings across disciplines to bridge gaps in understanding.  
 - Designed models capturing intricate quantum behaviors through critical thinking and innovation.  
-
----
 
 ## Work Experience
 
