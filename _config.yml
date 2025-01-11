@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniel Quinn, PhD Student"
+title                    : "Daniel Quinn's Webpage"
 title_separator          : "-"
 name                     : &name "Daniel Quinn"
-description              : &description "QML Researcher"
+description              : &description "Daniel Quinn"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanielQuinn53/DanielQuinn53.github.io"
@@ -22,7 +22,7 @@ repository               : "DanielQuinn53/DanielQuinn53.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "QML Researcher"
+  name             : "Daniel Quinn"
   pronouns         : # example: "she/her"  
   bio              : "1st Year Phd Student"
   location         : "Belfast"
