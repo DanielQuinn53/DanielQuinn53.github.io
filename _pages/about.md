@@ -1,4 +1,3 @@
----
 permalink: /
 title: "My CV"
 author_profile: true
@@ -9,7 +8,7 @@ redirect_from:
 
 ## About Me 
 
-Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast, supervised by Prof. Gabriele De Chiara. My research focuses on quantifying the energetic resources required for Quantum Machine Learning (QML) models. I’ve been actively working with quantum algorithms, utilising tools like Qiskit, Pennylane, and QIBO to implement these models.
+Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast, supervised by Prof. Gabriele De Chiara. My research focuses on Quantum Machine Learning (QML) models, specificaly the project is on quantifying the energetic resources required for such models. I’ve been actively working with quantum algorithms, utilising tools like Qiskit, Pennylane, and QIBO to implement these models.
 
 As a proud member of the Quantum Technology Group at Queen’s [QTeQ](https://blogs.qub.ac.uk/qteq/), I’m passionate about exploring *anything* quantum. If you’re interested in collaborating on an exciting QML project or have ideas to share, feel free to reach out to me at [dquinn53@qub.ac.uk](mailto:dquinn53@qub.ac.uk).
 
@@ -18,6 +17,9 @@ As a proud member of the Quantum Technology Group at Queen’s [QTeQ](https://bl
 **Queen's University Belfast**  
 *PhD in Physics*  
 *Sep 2024 - Present*  
+- Topic: Quantifying Energetic Resources in Quantum Machine Learning: A Comprehensive Analysis  
+- Supervisor: Prof. Gabriele De Chiara  
+- My current research involves generative QML models, particularly denoising diffusion probabilistic models, and extending them in innovative directions.  
 
 **Queen's University Belfast**  
 *MSci in Mathematics and Computer Science*  
@@ -25,7 +27,7 @@ As a proud member of the Quantum Technology Group at Queen’s [QTeQ](https://bl
 *Sep 2020 - Jun 2024*  
 
 **Relevant Modules:**  
-Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Information Processing
+Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Information Processing  
 
 ## Previous Projects
 
@@ -54,6 +56,12 @@ Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Informat
 ### Accessioning Technician / Lab Assistant, Randox Laboratories  
 *Jul 2020 - Sep 2020*  
 
-- Worked under high pressure during the COVID-19 pandemic, processing up to 2,000 samples per hour.  
+- Worked under high pressure during the COVID-19 pandemic, processing up to 1,000 samples per hour.  
 - Developed communication and leadership skills by mentoring new employees.  
 - Excelled in meeting tight deadlines within a fast-paced, high-stakes environment.  
+
+## Skills & Endorsements
+
+- **Quantum Machine Learning Tools:** Proficient in Qiskik and currently learning Pennylane.  
+- **Mathematics & Computational Proficiency:** Exceptional skills in advanced mathematics and algorithmic design.  
+- **Collaboration & Adaptability:** Experienced in mentoring peers, leading projects, and adapting to complex challenges in high-pressure environments.   
