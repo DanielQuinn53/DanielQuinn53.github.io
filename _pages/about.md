@@ -26,9 +26,8 @@ As a proud member of the Quantum Technology Group at Queen’s [QTeQ](https://bl
 *1st Class Honours*  
 *Sep 2020 - Jun 2024*  
 
-**Relevant Modules:**  
-Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Information Processing  
-
+- **Relevant Modules:** Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Information Processing
+  
 ## Previous Projects
 
 ### MSci Project: Machine Learning for Finding Quantum Maps  
