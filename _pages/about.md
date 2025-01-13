@@ -4,7 +4,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - https://danielquinn53.github.io
 ---
 
 ## About Me 
