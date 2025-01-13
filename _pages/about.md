@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast, supervised by Prof. Gabriele De Chiara. My research focuses on quantifying the energetic resources required for Quantum Machine Learning (QML) models. I’ve been actively working with quantum algorithms, utilising tools like Qiskit, Pennylane, and QIBO to implement these models.
 
-As a proud member of the Quantum Technology Group at Queen’s (QTeQ), I’m passionate about exploring *anything* quantum. If you’re interested in collaborating on an exciting QML project or have ideas to share, feel free to reach out to me at the email on the sidebar.
+As a proud member of the Quantum Technology Group at Queen’s (QTeQ), I’m passionate about exploring *anything* quantum. If you’re interested in collaborating on an exciting QML project or have ideas to share, feel free to reach out to me at dquinn53@qub.ac.uk.
 
 ## Education
 
