@@ -12,7 +12,7 @@ title                    : "Daniel Quinn's Webpage"
 title_separator          : "-"
 name                     : &name "Daniel Quinn"
 description              : &description "Daniel Quinn"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://DanielQuinn53.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanielQuinn53/DanielQuinn53.github.io"
 
