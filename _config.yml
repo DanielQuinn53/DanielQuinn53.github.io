@@ -21,9 +21,9 @@ repository               : "DanielQuinn53/DanielQuinn53.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0039.jpeg"
+  avatar           : "oie_uKzJzczi00Xn.png"
   name             : "Daniel Quinn"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "1st Year Phd Student"
   location         : "Northern Ireland"
   employer         : "Queen's University Belfast"
@@ -31,7 +31,7 @@ author:
   email            : "dquinn53@qub.ac.uk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/quant-ph?searchtype=author&query=Quinn%2C+D"
   googlescholar    : "https://scholar.google.com/citations?user=Jg8Du1UAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-3489-5135"
