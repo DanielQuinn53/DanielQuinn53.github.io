@@ -8,9 +8,9 @@ redirect_from:
 
 ## About Me 
 
-Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast, supervised by Prof. Gabriele De Chiara. My research focuses on Quantum Machine Learning (QML) models, specifically the project is on quantifying the energetic resources required for such models. I’ve been actively working with quantum algorithms, utilising tools like Qiskit and QIBO to implement these models.
+Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research focuses on Quantum Machine Learning (QML) models, specifically the project is on quantifying the energetic resources required for such models. I’ve been actively working with quantum algorithms, utilising tools like Qiskit and QIBO to implement these models.
 
-As a proud member of the Quantum Technology Group at Queen’s [QTeQ](https://blogs.qub.ac.uk/qteq/), I’m passionate about exploring *anything* quantum. If you’re interested in collaborating on an exciting QML project or have ideas to share, feel free to reach out to me at [dquinn53@qub.ac.uk](mailto:dquinn53@qub.ac.uk).
+I’m passionate about exploring *anything* quantum and *anything* machine learning. If you’re interested in collaborating on an exciting QML project or have ideas to share, feel free to reach out to me at [dquinn53@qub.ac.uk](mailto:dquinn53@qub.ac.uk).
 
 ## Education
 
@@ -24,42 +24,44 @@ My current research involves generative QML models, particularly denoising diffu
 *1st Class Honours*  
 *Sep 2020 - Jun 2024*  
 Relevant modules include Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, and Quantum Information Processing.
-  
-## Previous Projects
 
-### MSci Project: Machine Learning for Finding Quantum Maps  
-*Sep 2023 - May 2024*  
-*Supervisor: Prof. Mauro Paternostro*
+## Publications  
 
-- Leveraged deep learning models to predict the time evolution of quantum systems.  
-- Generated and analysed extensive datasets of physical observables.  
-- Effectively communicated the findings via a presentation.  
+- **Daniel Quinn**, Lorenzo Buffoni, Stefano Gherardini, Gabriele De Chiara, [*Conditioning in Generative Quantum Denoising Diffusion Models*](https://arxiv.org/abs/2509.17569), arXiv:2509.17569 (2025).
 
-## Work Experience
+## Conferences and Talks
+### LMS Research School on Quantum Machine Learning and Hamiltonian Simulation
+*Jun 2025, Sabhal Mor Ostaig, (Gaelic College), Sleat, Isle of Skye*
+- Gave a short talk on Conditioned Quantum Denoising Diffusion Models
+- See [school website](https://sites.google.com/view/qml-skye/home?authuser=0)
 
-### Tutor, Queen's University Belfast  
-*Sep 2024 - Present*  
+## Teaching Experience
+
+### Marker, QUB *Sep 2025 - Present*  
+
+- Graded homework assignments for a core first-year module covering Multivariable Calculus, Differential Equations, Linear Algebra, and Complex Numbers.  
+- Provided constructive feedback to students while maintaining fairness and consistency in assessments.
+
+### Tutor, QUB *Sep 2024 - Apr 2025*  
 
 - Delivered concise weekly summaries for a first-year module on Real Analysis and Linear Algebra to reinforce students' understanding.  
 - Supported students with weekly homework assignments, ensuring they stayed on track academically.  
 
-### Marker, Queen's University Belfast  
-*Jan 2024 - May 2024*  
+### Marker, QUB *Jan 2024 - Apr 2024*  
 
-- Graded homework assignments for a second-year module on Complex Analysis and Partial Differential Equations.  
-- Provided constructive feedback to students while maintaining fairness and consistency in assessments.  
+- Graded homework assignments for a second-year module on Complex Analysis and Partial Differential Equations.
 
-### Accessioning Technician / Lab Assistant, Randox Laboratories  
-*Jul 2020 - Sep 2020*  
-
-- Worked under high pressure during the COVID-19 pandemic, processing up to 1,000 samples per hour.  
-- Developed communication and leadership skills by mentoring new employees.  
-- Excelled in meeting tight deadlines within a fast-paced, high-stakes environment.  
+## Professional Development  
+- Completed a course on university teaching methods, covering:  
+  *Small Group Teaching and Lab Demonstrations, Learning and Facilitation Approaches, Building a Positive Learning Environment, Inclusive Teaching, Accessibility, Learning Design, Assessment and Feedback* (2023).
+  
 
 ## Skills  
 
-- **Quantum Machine Learning Tools:** Experienced in Qiskit and TensorCircuit for fast quantum circuit evaluation.  
-- **Mathematics & Computational Proficiency:** Experienced in advanced mathematics and algorithmic design.  
-- **HPC & Shell Scripting:** Experienced in using Bash and shell scripting to manage and execute jobs on high-performance computing clusters.  
-- **Collaboration & Adaptability:** Experienced in mentoring peers, leading projects, and adapting to complex challenges in high-pressure environments.  
+- **Quantum Machine Learning Tools:** Experienced in Qiskit and currently TensorCircuit for fast quantum circuit evaluation.  
+- **Mathematics & Computational Proficiency:** Exceptional skills in advanced mathematics and algorithmic design.  
+- **HPC & Shell Scripting:** Experienced in using Bash and shell scripting to manage and execute jobs on high-performance computing (HPC) clusters.  
+- **Collaboration & Adaptability:** Experienced in mentoring peers, leading projects, and adapting to complex challenges in high-pressure environments.
+ 
+
    
