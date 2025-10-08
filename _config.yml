@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "oie_uKzJzczi00Xn.png"
   name             : "Daniel Quinn"
-  pronouns         : "he/him"  
-  bio              : "1st Year Phd Student"
+  pronouns         : #"he/him"  
+  bio              : "2nd Year Phd Student"
   location         : "Northern Ireland"
   employer         : "Queen's University Belfast"
   uri              : # URL
