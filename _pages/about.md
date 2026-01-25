@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "My CV"
 author_profile: true
@@ -6,62 +7,68 @@ redirect_from:
   - /about.html
 ---
 
-## About Me 
+## 👋 About Me 
 
-Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research focuses on Quantum Machine Learning (QML) models, specifically the project is on quantifying the energetic resources required for such models. I’ve been actively working with quantum algorithms, utilising tools like Qiskit and QIBO to implement these models.
+Hi, I’m **Daniel**! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by **Prof. Gabriele De Chiara**. 
 
-I’m passionate about exploring *anything* quantum and *anything* machine learning. If you’re interested in collaborating on an exciting QML project or have ideas to share, feel free to reach out to me at [dquinn53@qub.ac.uk](mailto:dquinn53@qub.ac.uk).
+My research sits at the intersection of **Quantum Machine Learning (QML)** and thermodynamics. Specifically, I focus on quantifying the energetic resources required for quantum models. I actively implement these algorithms using cutting-edge tools like **Qiskit**, **QIBO**, and **TensorCircuit**.
 
-## Education
+I’m passionate about exploring *anything* quantum and *anything* machine learning. If you’re interested in collaborating or have ideas to share, let's connect!
 
-**Queen's University Belfast**  
-*PhD in Physics*  
-*Sep 2024 - Present*  
-My current research involves generative QML models, particularly denoising diffusion probabilistic models, and extending them in innovative directions.  
+* **Email:** [dquinn53@qub.ac.uk](mailto:dquinn53@qub.ac.uk)
+* **Location:** Belfast, United Kingdom
 
-**Queen's University Belfast**  
-*MSci in Mathematics and Computer Science*  
-*1st Class Honours*  
-*Sep 2020 - Jun 2024*  
-Relevant modules include Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, and Quantum Information Processing.
+---
 
-## Publications  
+## 🎓 Education
 
-- **Daniel Quinn**, Lorenzo Buffoni, Stefano Gherardini, Gabriele De Chiara, [*Conditioning in Generative Quantum Denoising Diffusion Models*](https://arxiv.org/abs/2509.17569), arXiv:2509.17569 (2025).
+**Queen's University Belfast** *PhD in Physics* | *Sep 2024 - Present* > My current research involves generative QML models, particularly denoising diffusion probabilistic models, and extending them in innovative directions.
 
-## Conferences and Talks
+**Queen's University Belfast** *MSci in Mathematics and Computer Science* | *1st Class Honours* *Sep 2020 - Jun 2024* * **Key Modules:** Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, and Quantum Information Processing.
+
+---
+
+## 📝 Publications 
+
+* **Daniel Quinn**, Lorenzo Buffoni, Stefano Gherardini, Gabriele De Chiara, [**"Conditioning in Generative Quantum Denoising Diffusion Models"**](https://arxiv.org/abs/2509.17569), *arXiv:2509.17569* (2025).
+
+---
+
+## 🎤 Conferences and Talks
+
 ### LMS Research School on Quantum Machine Learning and Hamiltonian Simulation
-*Jun 2025, Sabhal Mor Ostaig, (Gaelic College), Sleat, Isle of Skye*
-- Gave a short talk on Conditioned Quantum Denoising Diffusion Models
-- See [school website](https://sites.google.com/view/qml-skye/home?authuser=0)
+*Jun 2025 | Sleat, Isle of Skye*
+* Delivered a talk on **Conditioned Quantum Denoising Diffusion Models**.
+* View [School Website](https://sites.google.com/view/qml-skye/home?authuser=0).
 
-## Teaching Experience
+---
 
-### Marker, QUB *Sep 2025 - Present*  
+## 🏫 Teaching Experience
 
-- Graded homework assignments for a core first-year module covering Multivariable Calculus, Differential Equations, Linear Algebra, and Complex Numbers.  
-- Provided constructive feedback to students while maintaining fairness and consistency in assessments.
+### Marker | QUB 
+*Sep 2025 - Present* * Grading core first-year modules: Multivariable Calculus, Differential Equations, Linear Algebra, and Complex Numbers.
+* Providing constructive feedback to ensure student growth and assessment consistency.
 
-### Tutor, QUB *Sep 2024 - Apr 2025*  
+### Tutor | QUB 
+*Sep 2024 - Apr 2025* * Led weekly tutorials for Real Analysis and Linear Algebra.
+* Synthesized complex theories into digestible summaries to support student success.
 
-- Delivered concise weekly summaries for a first-year module on Real Analysis and Linear Algebra to reinforce students' understanding.  
-- Supported students with weekly homework assignments, ensuring they stayed on track academically.  
+### Marker | QUB 
+*Jan 2024 - Apr 2024* * Assessed student work for second-year Complex Analysis and Partial Differential Equations.
 
-### Marker, QUB *Jan 2024 - Apr 2024*  
+---
 
-- Graded homework assignments for a second-year module on Complex Analysis and Partial Differential Equations.
+## 🛠 Skills 
 
-## Professional Development  
-- Completed a course on university teaching methods, covering:  
-  *Small Group Teaching and Lab Demonstrations, Learning and Facilitation Approaches, Building a Positive Learning Environment, Inclusive Teaching, Accessibility, Learning Design, Assessment and Feedback* (2023).
-  
+| Category | Proficiency |
+| :--- | :--- |
+| **QML Tools** | Qiskit, QIBO, TensorCircuit (Fast circuit evaluation) |
+| **Computing** | HPC Cluster Management, Bash/Shell Scripting, Python |
+| **Mathematics** | Algorithmic Design, Quantum Information Theory, Real/Complex Analysis |
+| **Soft Skills** | Academic Mentoring, Collaborative Research, Technical Writing |
 
-## Skills  
+---
 
-- **Quantum Machine Learning Tools:** Experienced in Qiskit and currently TensorCircuit for fast quantum circuit evaluation.  
-- **Mathematics & Computational Proficiency:** Exceptional skills in advanced mathematics and algorithmic design.  
-- **HPC & Shell Scripting:** Experienced in using Bash and shell scripting to manage and execute jobs on high-performance computing (HPC) clusters.  
-- **Collaboration & Adaptability:** Experienced in mentoring peers, leading projects, and adapting to complex challenges in high-pressure environments.
- 
+## 🌟 Professional Development 
 
-   
+* **University Teaching Methods Certification (2023):** * Covered: Small Group Facilitation, Inclusive Teaching, Accessibility, Learning Design, and Assessment & Feedback.
