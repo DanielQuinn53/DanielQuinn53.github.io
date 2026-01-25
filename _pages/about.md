@@ -9,14 +9,9 @@ redirect_from:
 
 ## 👋 About Me 
 
-Hi, I’m **Daniel**! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by **Prof. Gabriele De Chiara**. 
-
-My research sits at the intersection of **Quantum Machine Learning (QML)** and thermodynamics. Specifically, I focus on quantifying the energetic resources required for quantum models. I actively implement these algorithms using cutting-edge tools like **Qiskit**, **QIBO**, and **TensorCircuit**.
+Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research sits at the intersection of Quantum Machine Learning (QML) and thermodynamics. Specifically, I focus on quantifying the energetic resources required for quantum models. I actively implement these algorithms using cutting-edge tools like Qiskit, QIBO, and TensorCircuit.
 
 I’m passionate about exploring *anything* quantum and *anything* machine learning. If you’re interested in collaborating or have ideas to share, let's connect!
-
-* **Email:** [dquinn53@qub.ac.uk](mailto:dquinn53@qub.ac.uk)
-* **Location:** Belfast, United Kingdom
 
 ---
 
@@ -46,15 +41,13 @@ I’m passionate about exploring *anything* quantum and *anything* machine learn
 ## 🏫 Teaching Experience
 
 ### Marker | QUB 
-*Sep 2025 - Present* * Grading core first-year modules: Multivariable Calculus, Differential Equations, Linear Algebra, and Complex Numbers.
-* Providing constructive feedback to ensure student growth and assessment consistency.
+*Sep 2025 - Present* Grading a core first-year module covering Multivariable Calculus, Differential Equations, Linear Algebra, and Complex Numbers. Providing constructive feedback to ensure student growth and assessment consistency.
 
 ### Tutor | QUB 
-*Sep 2024 - Apr 2025* * Led weekly tutorials for Real Analysis and Linear Algebra.
-* Synthesized complex theories into digestible summaries to support student success.
+*Sep 2024 - Apr 2025* Led weekly tutorials for Real Analysis and Linear Algebra. Synthesized complex theories into digestible summaries to support student success.
 
 ### Marker | QUB 
-*Jan 2024 - Apr 2024* * Assessed student work for second-year Complex Analysis and Partial Differential Equations.
+*Jan 2024 - Apr 2024* Assessed student work for second-year Complex Analysis and Partial Differential Equations.
 
 ---
 
@@ -72,3 +65,4 @@ I’m passionate about exploring *anything* quantum and *anything* machine learn
 ## 🌟 Professional Development 
 
 * **University Teaching Methods Certification (2023):** * Covered: Small Group Facilitation, Inclusive Teaching, Accessibility, Learning Design, and Assessment & Feedback.
+ 
