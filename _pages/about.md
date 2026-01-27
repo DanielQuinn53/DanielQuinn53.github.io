@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 ## 👋 About Me 
 
 Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research sits at the intersection of Quantum Machine Learning (QML) and thermodynamics. Specifically, I focus on quantifying the energetic resources required for quantum models. I actively implement these algorithms using cutting-edge tools like Qiskit, QIBO, and TensorCircuit.
@@ -17,9 +18,15 @@ I’m passionate about exploring *anything* quantum and *anything* machine learn
 
 ## 🎓 Education
 
-**Queen's University Belfast** *PhD in Physics* | *Sep 2024 - Present* > My current research involves generative QML models, particularly denoising diffusion probabilistic models, and extending them in innovative directions.
+### Queen's University Belfast 
+*PhD in Physics* 
+Sep 2024 - Present
+- My current research involves generative QML models, particularly denoising diffusion probabilistic models, and extending them in innovative directions.
 
-**Queen's University Belfast** *MSci in Mathematics and Computer Science* | *1st Class Honours* *Sep 2020 - Jun 2024* * **Key Modules:** Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, and Quantum Information Processing.
+### Queen's University Belfast 
+*MSci in Mathematics and Computer Science* 
+*1st Class Honours*, Sep 2020 - Jun 2024 
+- Key Modules: Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, and Quantum Information Processing.
 
 ---
 
@@ -65,4 +72,3 @@ I’m passionate about exploring *anything* quantum and *anything* machine learn
 ## 🌟 Professional Development 
 
 * **University Teaching Methods Certification (2023):** * Covered: Small Group Facilitation, Inclusive Teaching, Accessibility, Learning Design, and Assessment & Feedback.
- 
