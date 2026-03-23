@@ -7,66 +7,81 @@ redirect_from:
   - /about.html
 ---
 
-
 ## 👋 About Me 
 
-Hi, I’m Daniel! I’m a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research sits at the intersection of Quantum Machine Learning (QML) and thermodynamics. Specifically, I focus on quantifying the energetic resources required for quantum models. I actively implement these algorithms using cutting-edge tools like Qiskit, QIBO, and TensorCircuit.
+Hi, I’m Daniel, a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research lies at the intersection of Quantum Machine Learning (QML) and thermodynamics, with a focus on quantifying the energetic resources required for quantum models.
 
-I’m passionate about exploring *anything* quantum and *anything* machine learning. If you’re interested in collaborating or have ideas to share, let's connect!
+I develop and implement these methods using tools such as Qiskit, QIBO, and TensorCircuit.
+
+I’m broadly interested in quantum computing and machine learning. If you’re interested in collaborating or discussing ideas, feel free to get in touch.
 
 ---
 
 ## 🎓 Education
 
-### Queen's University Belfast, *PhD in Physics* 
-Sep 2024 - Present
-- My current research involves generative QML models, particularly denoising diffusion probabilistic models, and extending them in innovative directions.
+### Queen's University Belfast — *PhD in Physics*  
+**Sep 2024 – Present**  
+- Research focuses on generative QML models, particularly denoising diffusion probabilistic models, and their extensions.
 
-### Queen's University Belfast, *MSci in Mathematics and Computer Science* 
-*1st Class Honours*, Sep 2020 - Jun 2024 
-- Key Modules: Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, and Quantum Information Processing.
+### Queen's University Belfast — *MSci in Mathematics and Computer Science*  
+**First Class Honours**, Sep 2020 – Jun 2024  
+- Key modules: Analysis of Algorithms, Deep Learning, Advanced Quantum Theory, Quantum Information Processing.
 
 ---
 
 ## 📝 Publications 
 
-* **Daniel Quinn**, Lorenzo Buffoni, Stefano Gherardini, Gabriele De Chiara, [**"Conditioning in Generative Quantum Denoising Diffusion Models"**](https://arxiv.org/abs/2509.17569), *arXiv:2509.17569* (2025).
+- **Daniel Quinn**, Lorenzo Buffoni, Stefano Gherardini, Gabriele De Chiara,  
+  [**"Conditioning in Generative Quantum Denoising Diffusion Models"**](https://arxiv.org/abs/2509.17569),  
+  *arXiv:2509.17569* (2025).
 
 ---
 
 ## 🎤 Conferences and Talks
 
-### LMS Research School on Quantum Machine Learning and Hamiltonian Simulation
-*Jun 2025 | Sleat, Isle of Skye*
-* Delivered a talk on **Conditioned Quantum Denoising Diffusion Models**.
-* View [School Website](https://sites.google.com/view/qml-skye/home?authuser=0).
+### Spring School on Near-Term Quantum Computing  
+**Mar 2026 | Benasque Science Center, Spain**  
+- Presented a poster on **Conditioned Quantum Denoising Diffusion Models**.  
+- Member of the winning Hackathon team.  
+- [School Website](https://benasque.org/2026ntqc/)
+
+### LMS Research School on Quantum Machine Learning and Hamiltonian Simulation  
+**Jun 2025 | Sleat, Isle of Skye**  
+- Delivered a talk on **Conditioned Quantum Denoising Diffusion Models**.  
+- [School Website](https://sites.google.com/view/qml-skye/home?authuser=0)
 
 ---
 
 ## 🏫 Teaching Experience
 
-### Marker | QUB 
-*Sep 2025 - Present* Grading a core first-year module covering Multivariable Calculus, Differential Equations, Linear Algebra, and Complex Numbers. Providing constructive feedback to ensure student growth and assessment consistency.
+### Marker | Queen’s University Belfast  
+**Sep 2025 – Present**  
+- Grade coursework for a first-year module covering multivariable calculus, differential equations, linear algebra, and complex numbers.  
+- Provide structured feedback to support student development and ensure consistency in assessment.
 
-### Tutor | QUB 
-*Sep 2024 - Apr 2025* Led weekly tutorials for Real Analysis and Linear Algebra. Synthesized complex theories into digestible summaries to support student success.
+### Tutor | Queen’s University Belfast  
+**Sep 2024 – Apr 2025**  
+- Led weekly tutorials in real analysis and linear algebra.  
+- Simplified complex theoretical concepts into clear, accessible explanations.
 
-### Marker | QUB 
-*Jan 2024 - Apr 2024* Assessed student work for second-year Complex Analysis and Partial Differential Equations.
+### Marker | Queen’s University Belfast  
+**Jan 2024 – Apr 2024**  
+- Assessed coursework for second-year modules in complex analysis and partial differential equations.
 
 ---
 
 ## 🛠 Skills 
 
-| Category | Proficiency |
+| Category | Details |
 | :--- | :--- |
-| **QML Tools** | Qiskit, QIBO, TensorCircuit (Fast circuit evaluation) |
-| **Computing** | HPC Cluster Management, Bash/Shell Scripting, Python |
-| **Mathematics** | Algorithmic Design, Quantum Information Theory, Real/Complex Analysis |
-| **Soft Skills** | Academic Mentoring, Collaborative Research, Technical Writing |
+| **QML Tools** | Qiskit, QIBO, TensorCircuit |
+| **Programming & Computing** | Python, Bash/Shell, HPC cluster workflows |
+| **Mathematics** | Quantum Information Theory, Real & Complex Analysis, Algorithm Design |
+| **Professional Skills** | Academic mentoring, collaborative research, technical writing |
 
 ---
 
 ## 🌟 Professional Development 
 
-* **University Teaching Methods Certification (2023):** * Covered: Small Group Facilitation, Inclusive Teaching, Accessibility, Learning Design, and Assessment & Feedback.
+- **University Teaching Methods Certification (2023)**  
+  - Topics covered: small group facilitation, inclusive teaching, accessibility, learning design, assessment & feedback.
