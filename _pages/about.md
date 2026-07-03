@@ -9,9 +9,9 @@ redirect_from:
 
 ## 👋 About Me 
 
-Hi, I’m Daniel, a Physics PhD student at Queen’s University Belfast (QUB), supervised by Prof. Gabriele De Chiara. My research lies at the intersection of Quantum Machine Learning (QML) and thermodynamics, with a focus on quantifying the energetic resources required for quantum models.
+Hi, I’m Daniel, a Physics PhD researcher at Queen’s University Belfast, supervised by Prof. Gabriele De Chiara. My research lies at the intersection of Quantum Machine Learning (QML) and thermodynamics, with a focus on quantifying the energetic resources required for quantum models.
 
-I develop and implement these methods using tools such as Qiskit, QIBO, and TensorCircuit.
+I develop and implement these methods using tools such as Qiskit and ITensor.jl
 
 I’m broadly interested in quantum computing and machine learning. If you’re interested in collaborating or discussing ideas, feel free to get in touch.
 
@@ -64,8 +64,8 @@ I’m broadly interested in quantum computing and machine learning. If you’re 
 
 | Category | Details |
 | :--- | :--- |
-| **QML Tools** | Qiskit, QIBO, TensorCircuit |
-| **Programming & Computing** | Python, Bash/Shell, HPC cluster workflows |
+| **QML Tools** | Qiskit, TensorCircuit, Tensor Networks |
+| **Programming & Computing** | Python, Julia, Bash/Shell, HPC cluster workflows |
 | **Mathematics** | Quantum Information Theory, Real & Complex Analysis, Algorithm Design |
 | **Professional Skills** | Academic mentoring, collaborative research, technical writing |
 
